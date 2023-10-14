@@ -144,3 +144,10 @@ const Button = styled.button<ButtonPropsType>`
     }
   `}
 `
+
+
+function myFun(){
+    return (
+        <>Hello</>
+    )
+}
